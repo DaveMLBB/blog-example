@@ -1,5 +1,5 @@
 # blog-bloggante
-Progetto del team 3 per il corso di Develhope 
+Java3 project for Develhope school
 
 
 # Spring Boot , MySQL, Spring Security, JWT, JPA, Rest API
